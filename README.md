@@ -1,6 +1,6 @@
-# Bilibili 评论工具 (MCP)
+# Bilibili-Comments-MCP (MCP)
 
-一个基于 Model Context Protocol (MCP) 的 B 站视频评论获取工具，可批量获取评论并支持楼中楼回复。
+一个基于 Model Context Protocol (MCP) 的 B 站视频评论获取工具.
 
 ## 快速开始
 
