@@ -4,21 +4,20 @@
 
 ## 快速开始
 
-### 1. 安装依赖
+### 1. clone本项目
+```bash
+git clone https://github.com/222wcnm/Bilibili-Comments-MCP.git
+cd Bilibili-Comments-MCP
+```
+
+
+### 2. 安装依赖
 ```bash
 npm install @modelcontextprotocol/sdk axios
 ```
 
-### 2. 设置 Cookie
-```bash
-# 方式一：环境变量
-export BILIBILI_COOKIE="your_bilibili_cookie_here"
-
-# 方式二：直接在工具调用时传入
-```
-
 ### 3. 配置客户端
-在 MCP 客户端（如 Claude Desktop）的配置文件中添加：
+在 MCP 客户端的配置文件中添加：
 
 ```json
 {
@@ -32,11 +31,6 @@ export BILIBILI_COOKIE="your_bilibili_cookie_here"
     }
   }
 }
-```
-
-### 4. 启动服务
-```bash
-node bilibili_mcp.js
 ```
 
 ## 工具功能
