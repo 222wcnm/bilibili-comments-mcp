@@ -1,5 +1,4 @@
-# Bilibili-Comments-MCP(MCP)
-
+# Bilibili-Comments-MCP
 一个基于 Model Context Protocol (MCP) 的 B 站视频评论获取工具.
 
 ## 快速开始
