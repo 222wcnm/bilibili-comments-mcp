@@ -15,7 +15,7 @@ cd Bilibili-Comments-MCP
 npm install @modelcontextprotocol/sdk axios
 ```
 
-### 3. 配置客户端
+### 3. 配置客户端（如Claude客户端）
 在 MCP 客户端的配置文件中添加：
 
 ```json
